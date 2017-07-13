@@ -2,7 +2,7 @@
 //  Country.swift
 //
 //  Created by Hubert LABORDE on 30/03/2017.
-//  Copyright © 2017 Astek. All rights reserved.
+//  Copyright © 2017 . All rights reserved.
 //
 
 import Foundation
