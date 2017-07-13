@@ -1,6 +1,5 @@
 //
 //  Country.swift
-//  Essilor
 //
 //  Created by Hubert LABORDE on 30/03/2017.
 //  Copyright © 2017 Astek. All rights reserved.
